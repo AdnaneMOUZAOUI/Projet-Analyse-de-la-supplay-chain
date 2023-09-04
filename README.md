@@ -1,2 +1,2 @@
 # Projet-Analyse-de-la-supplay-chain
-Projet d'étude : analyse de la supply chain, analyse et prédiction des avis et commentaires des clients
+Analyse et Prédiction des avis/commentaires laissés par les clients/internautes sur les plateformes TrustPilot et TrustedShop
